@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@pharen/ui": "^0.0.8",
-    "pinia": "^2.1.7",
+    "pinia": "^3.0.2",
     "@pinia/nuxt":"^0.11.2"
   }
 }
